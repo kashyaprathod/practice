@@ -16,7 +16,7 @@ public class Convertnumber{
         System.out.println("the product of the given input is:");
         System.out.println(a*b);
     }catch(Exception e){
-        System.out.println("wrong input")
+        System.out.println("wrong input");
     }
     }
 }
